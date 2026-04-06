@@ -40,11 +40,15 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sundara-vadivel&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundara-vadivel&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=sundara-vadivel&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundara-vadivel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
 </p>
 
 ---
