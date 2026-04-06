@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundara-vadivel&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sundara-vadivel&theme=tokyonight" width="47%" />
 </p>
 
 ---
