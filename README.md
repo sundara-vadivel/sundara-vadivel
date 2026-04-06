@@ -31,12 +31,12 @@
 
 ---
 
-### 📌 Featured Projects
+<!--### 📌 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎓 GradeAI](https://github.com/sundara-vadivel) | Student Academic Performance Predictor — R²: 0.84 | Python, Flask, scikit-learn |
-| [📚 Learning C++](https://github.com/sundara-vadivel/learning-cpp) | Daily C++ practice — arrays, functions, sorting, patterns | C++, Turbo C++ |
+| [📚 Learning C++](https://github.com/sundara-vadivel/learning-cpp) | Daily C++ practice — arrays, functions, sorting, patterns | C++, Turbo C++ |-->
 
 ---
 
